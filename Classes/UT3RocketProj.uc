@@ -63,6 +63,8 @@ defaultproperties
     Damage=100.0
     MomentumTransfer=85000.000000
     LifeSpan=8.0
-    AmbientSound=Sound'UT3Weapons2.RocketLauncher.RocketLauncherAmb'
-    ExplosionSound=Sound'UT3Weapons2.RocketLauncher.RocketLauncherExplosion'
+    AmbientSound=Sound'UT3A_Weapon_RocketLauncher.UT3RocketSingles.UT3RocketTravel01'
+    ExplosionSound=Sound'UT3A_Weapon_RocketLauncher.UT3RocketImpact.UT3RocketImpactCue'
+    TransientSoundVolume=0.4
+    SoundRadius=200
 }
